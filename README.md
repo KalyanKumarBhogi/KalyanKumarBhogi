@@ -1,4 +1,4 @@
-![MasterHead](https://files.oaiusercontent.com/file-2S6wt6ePADynXYSkHX5mXT?se=2025-02-07T03%3A19%3A45Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D5e01677f-20a8-48b1-9f92-841a3bb8813c.webp&sig=qWYTwqVbxe%2Bxf4ilFvRXBqUJUFOeKfp25Ze37rm0tWs%3D)
+![Alt Text](https://drive.google.com/uc?export=view&id=1i6PNSyLP7ZX1XbJNXsJCTWAAHBSM7-uM)
 <h1 align="center">Hi, I'm Kalyan! 👋</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KalyanKumarBhogi&label=Profile%20views&color=0e75b6&style=flat" alt="KalyanKumarBhogi" /> </p>
@@ -13,22 +13,22 @@ My journey spans industries such as technology, healthcare, manufacturing, and r
 
 "I am a data enthusiast committed to turning data into innovation and insights."
 
- # Github Highlights
+# Github Highlights
 
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalyanKumarBhogi&layout=compact&theme=dracula&langs_count=6&hide_border=true&custom_title=Top%20Languages&title_color=FF69B4" 
-         alt="Top Languages" />
-</p>
-
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KalyanKumarBhogi&theme=dracula&hide_border=true" 
-         alt="KalyanKumarBhogi" />
-</p>
-
-<a href="https://github.com/KalyanKumarBhogi/KalyanKumarBhogi.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KalyanKumarBhogi&repo=KalyanKumarBhogi.github.io&theme=dracula&hide_border=true&v=1" />
-</a>
-
+<table>
+  <tr>
+    <td style="width: 60%;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalyanKumarBhogi&layout=compact&theme=dracula&langs_count=6&hide_border=true&custom_title=Top%20Languages&title_color=FF69B4" 
+           alt="Top Languages" />
+      <br>
+      <a href="https://github.com/KalyanKumarBhogi/KalyanKumarBhogi.github.io">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KalyanKumarBhogi&repo=KalyanKumarBhogi.github.io&theme=dracula&hide_border=true&v=1" />
+      </a>
+    </td>
+     <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtoZjg5dzJ5Zm9mNmJrN3RrMWhienZwdjFiZDI3cG9nM3Fha3ZiZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvckSy7fFviqrq8ClF/giphy.gif">
+    </td>
+  </tr>
+</table>
 
  # Language and Tools (So Far But Not Limited To...)
  
